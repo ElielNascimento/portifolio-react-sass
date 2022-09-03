@@ -12,7 +12,7 @@ const Sidebar = () => {
           <img src={Avatar} alt="Eliel Nascimento" />
           <p className="title"> Desenvolvedor</p>
            <InformationContainer/>
-           <SocialNetWorks />
+           <SocialNetWorks/>
           <a href='src/img/curriculum.pdf' className="btn" download>
             Donwload curriculo
            </a>
